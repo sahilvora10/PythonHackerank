@@ -1,0 +1,1 @@
+![](Collections-namedtuple-HackerRank.png)
