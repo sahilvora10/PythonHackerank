@@ -1,0 +1,1 @@
+![](Company-Logo-HackerRank.png)
