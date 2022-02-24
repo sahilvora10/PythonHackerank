@@ -1,0 +1,1 @@
+![](DefaultDict-Tutorial-HackerRank.png)
