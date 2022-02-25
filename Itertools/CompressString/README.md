@@ -1,0 +1,1 @@
+![](Compress-the-String-HackerRank.png)
