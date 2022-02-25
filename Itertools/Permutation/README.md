@@ -1,0 +1,1 @@
+![](itertools-permutations-HackerRank.png)
