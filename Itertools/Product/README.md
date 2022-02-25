@@ -1,0 +1,1 @@
+![](itertools-product-HackerRank.png)
